@@ -1,0 +1,4 @@
+RandomIntent start random
+RandomIntent random
+RandomIntent start random song
+RandomIntent random song
